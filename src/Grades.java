@@ -6,7 +6,7 @@ public class Grades
 	{
 		double maths,english,hindi,science,ss,total,percentage;
 		Scanner in = new Scanner(System.in);
-		 
+		 System.out.println("for the pull");
 	      System.out.println("Enter maths score");
 	      maths = in.nextInt();
 	      System.out.println("Enter english score");
